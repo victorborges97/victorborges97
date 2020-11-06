@@ -22,7 +22,7 @@
       <b> SOBRE MIM </b> <i>(Clique aqui para expandir)</i> 
     </summary>
     <h3>Sobre mim</h3>
-    <p> Bom sou estudante de Sistema de Informação na UniRedentor, estou gostando muito de aprender as framework's React.js e React Native, e busco a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, estou desenvolvendo projetos pessoais com intuito de aprender e ajudar com o conhecimento que tenho aderido até aqui!</p><p>Meu Portifolio:  <a href="https://joaovictorborges.vercel.app/">Acessar</a></p>
+    <p> Bom sou estudante de Sistema de Informação na UniRedentor, estou gostando muito de aprender as framework's React.js e React Native, e busco a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, estou desenvolvendo projetos pessoais com intuito de aprender e ajudar com o conhecimento que tenho aderido até aqui!</p><p>Meu Portifolio:  <a target="_blank" href="https://joaovictorborges.vercel.app/">Acessar</a></p>
   </details>
   <p>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/49b3fee44572a497734525fec499a139fad69589/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a686f6e2d4465762673686f775f69636f6e733d74727565267468656d653d64726163756c61">
