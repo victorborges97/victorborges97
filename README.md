@@ -29,4 +29,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=dracula" alt="victorborges97 languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=dracula" style="max-width:100%;">
     </a>
   </p>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=victorborges97&show_icons=true&theme=dark)](https://github.com/victorborges97)
 </article>
