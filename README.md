@@ -11,7 +11,7 @@ I'm João Victor! I am twenty-five years old, I am a graduate in Information Sys
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorborges97/)
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/victorborges97)
 [![Instagram](https://img.shields.io/badge/-Instagram-a43b9d?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jvborges.97/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522988736591!)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522988735553)
 [![Whatsapp](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:borges.jvdo@gmail.com)
 
 <!-- Profile View Count and GitStats -->
