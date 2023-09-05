@@ -42,8 +42,8 @@
 <br>
 <br>
 <div style="margin-top: 10px; display: flex; flex-wrap: wrap">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/49b3fee44572a497734525fec499a139fad69589/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a686f6e2d4465762673686f775f69636f6e733d74727565267468656d653d64726163756c61">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=dracula" alt="victorborges97 languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=dracula" style="max-width:100%;" />
+  <a target="_blank" rel="noopener noreferrer" href="https://gitstats.me/victorborges97">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=algolia" alt="victorborges97 languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorborges97&theme=algolia" style="max-width:100%;" />
     </a>
   <a 
     target="_blank" rel="noopener noreferrer" 
